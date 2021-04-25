@@ -1,5 +1,5 @@
 # BrickBreakers
-A multiplayer Brick-Breaker game. Tutorial for single player version: https://www.youtube.com/watch?v=K9qMm3JbOH0
+A two player Brick-Breaker game. Tutorial for single player version: https://www.youtube.com/watch?v=K9qMm3JbOH0
 
 # Controls
 Player 1 (White Paddle)- A to move left, D to move right
